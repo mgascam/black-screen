@@ -2,7 +2,8 @@
   "name": "black-screen",
   "private": true,
   "dependencies": {
-    "bootstrap-sass": "~3.3.5"
+    "bootstrap-sass": "~3.3.5",
+    "EaselJS": "easeljs#^0.8.2"
   },
   "overrides": {
     "bootstrap-sass": {
